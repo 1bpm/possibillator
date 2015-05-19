@@ -1,0 +1,16 @@
+[
+    {"name" : "A","freq":440},
+    {"name" : "A#","freq":466.16},
+    {"name" : "B","freq":493.88},
+    {"name" : "C","freq": 523.25},
+    {"name" : "C#","freq":554.37},
+    {"name" : "D","freq":587.33},
+    {"name" : "D#","freq":622.25},
+    {"name" : "E","freq":659.25},
+    {"name" : "F","freq":698.46},
+    {"name" : "F#","freq":739.99},
+    {"name" : "G","freq":783.99},
+    {"name" : "G#","freq":830.61}
+    
+]
+   
